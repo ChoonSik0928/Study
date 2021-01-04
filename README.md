@@ -1,8 +1,7 @@
 # Study
 
-- 목표
 ### Jetpack Compose 
--- 새로운 ui 처리 방식에 익숙해지기 위함
+- 새로운 ui 처리 방식에 익숙해지기 위함
 
 ### 참조
 - Jetpack Compose 소개 및 이해
