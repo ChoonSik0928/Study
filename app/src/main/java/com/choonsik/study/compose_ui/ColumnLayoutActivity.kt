@@ -1,4 +1,4 @@
-package com.choonsik.study.compose_ui.column_layouts
+package com.choonsik.study.compose_ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
