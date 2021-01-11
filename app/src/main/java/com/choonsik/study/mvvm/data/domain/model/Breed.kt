@@ -1,7 +1,7 @@
-package com.choonsik.study.mvvm.data.entities
+package com.choonsik.study.mvvm.data.domain.model
 
 data class Breed(
-    val breed: String,
+    val name: String,
     val country: String,
     val origin: String,
     val coat: String,
