@@ -3,6 +3,9 @@
 ### Jetpack Compose 
 - 새로운 ui 처리 방식에 익숙해지기 위함
 
+### MVVM 재정리
+- Reference REST API : https://catfact.ninja/
+
 ### 참조
 #### Jetpack Compose 소개 및 이해
 - 공식 가이드 : https://developer.android.com/jetpack/compose?hl=ko
