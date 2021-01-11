@@ -1,5 +1,6 @@
-package com.choonsik.study.mvvm.data.entities
+package com.choonsik.study.mvvm.data.network.response
 
+import com.choonsik.study.mvvm.data.domain.model.Breed
 import com.google.gson.annotations.SerializedName
 
 data class BreedsResponse(
