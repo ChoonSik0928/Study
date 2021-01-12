@@ -5,7 +5,7 @@ import retrofit2.Response
 import java.lang.Exception
 
 abstract class BaseRepository {
-    protected suspend fun <T> getResult(call: suspend () -> Response<T>): Resource<T> {
+    protected suspend fun <T> callNetwork(call: suspend () -> Response<T>): Resource<T> {
         try {
             val response = call()
             if (response.isSuccessful) {
